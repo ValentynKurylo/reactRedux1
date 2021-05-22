@@ -1,0 +1,6 @@
+export const INC = 'INC'
+export const DEC = 'DEC'
+export const INC100 = 'INC100'
+export const DEC100 = 'DEC100'
+export const RESET = 'RESET'
+export const ADD = 'ADD'
